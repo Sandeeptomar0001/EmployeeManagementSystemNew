@@ -1,0 +1,32 @@
+[
+    {
+      "courseId": "Java Fullstack",
+      "courseName": "Java Fullstack",
+      "courseDuration": "1 Year",
+      "courseFee": "2,20,000"
+    },
+    {
+      "courseId": "Python FullStack",
+      "courseName": "Python FullStack",
+      "courseDuration": "1 Year",
+      "courseFee": "2,50,000"
+    },
+    {
+      "courseId": "FrontEnd (React/Angular/Vue)",
+      "courseName": "FrontEnd (React/Angular/Vue)",
+      "courseDuration": "3 Months",
+      "courseFee": "1,20,000"
+    },
+    {
+      "courseId": "Data Analytics",
+      "courseName": "Data Analytics",
+      "courseDuration": "6 Months",
+      "courseFee": "1,80,000"
+    },
+    {
+      "courseId": "C/C++",
+      "courseName": "C/C++",
+      "courseDuration": "2 Months",
+      "courseFee": "50,000" 
+    }
+  ]
